@@ -1,0 +1,60 @@
+{
+  "topLeft": [
+    {
+      "id": "1",
+      "title": "About Us",
+      "slug": "about-us"
+    },
+    {
+      "id": "2",
+      "title": "My Account",
+      "slug": "my-account"
+    },
+    {
+      "id": "3",
+      "title": "Featured Products",
+      "slug": "featured-products"
+    },
+    {
+      "id": "4",
+      "title": "Contact",
+      "slug": "contact-us"
+    }
+  ],
+  "topRight": [
+    {
+      "id": "1",
+      "title": "Order Tracking",
+      "slug": "order-tracking"
+    },
+    {
+      "id": "2",
+      "title": "English",
+      "slug": "#",
+      "children": [
+        {
+          "id": "2a",
+          "title": "Bengali",
+          "slug": "#"
+        },
+        {
+          "id": "2b",
+          "title": "Arabic",
+          "slug": "#"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "USD",
+      "slug": "#",
+      "children": [
+        {
+          "id": "3a",
+          "title": "BDT",
+          "slug": "#"
+        }
+      ]
+    }
+  ]
+}
